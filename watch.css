@@ -1,0 +1,44 @@
+li:hover {
+   background-color: rgb(244, 85, 17);
+  }
+  
+  li .glyphicon:hover {
+    color: rgb(33, 242, 50);
+  }
+  
+  li .list-item {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .glyphicon-remove {
+    cursor: pointer;
+    background-color: rgb(245, 6, 6);
+  }
+
+  #addWatch-btn{
+    background-color: black;
+    border: 5px solid black;
+  
+}
+#title{
+  background-color: rgb(225, 202, 209);
+  border: 5px solid rgb(203, 18, 184);
+}
+ #removeAll-btn{
+  border: 3px solid rgb(195, 96, 230);
+  background-color: rgb(4, 2, 7);
+  text-align: center;
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+ }
+ h1{
+  font-family: cursive;
+  font-size: xx-large;
+
+ }
+ 
+ body{
+  background-size: cover;
+  opacity: -5px;
+ }
